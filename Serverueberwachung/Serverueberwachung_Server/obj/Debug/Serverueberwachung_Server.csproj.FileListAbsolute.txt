@@ -7,3 +7,12 @@ c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\
 c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.csproj.GenerateResource.Cache
 c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.exe
 c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.pdb
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\bin\Debug\Serverueberwachung_Server.exe.config
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.exe
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.pdb
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\bin\Debug\Serverueberwachung_Server.exe
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\bin\Debug\Serverueberwachung_Server.pdb
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.csprojResolveAssemblyReference.cache
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.Properties.Resources.resources
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.Serverueberwachung_Server.resources
+C:\Users\Steffi.20\Documents\GitHub\Projektwoche\Serverueberwachung\Serverueberwachung_Server\obj\Debug\Serverueberwachung_Server.csproj.GenerateResource.Cache
