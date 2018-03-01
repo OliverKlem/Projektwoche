@@ -27,7 +27,14 @@ namespace Serverueberwachung_Server
         PerformanceCounter perfMemCounter = new PerformanceCounter("Memory", "Available MBytes");
         PerformanceCounter perfSystemCounter = new PerformanceCounter("System", "System Up Time");
 
-
+        //private static void GetComponent(string hwclass, string syntax)
+        //{
+        //    ManagementObjectSearcher mos = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM "+ hwclass);
+        //    foreach(ManagementObject mj in mos.Get())
+        //    {
+        //        MessageBox.Show(Convert.ToString(mj[syntax]));
+        //    }
+        //}
 
      
         private void Serverueberwachung_Server_Load(object sender, EventArgs e)
@@ -37,7 +44,7 @@ namespace Serverueberwachung_Server
             server.PacketReceived += Server_PacketReceived;
             server.ClientConnected += Server_ClientConnected;
             timer1.Start();
-           // GetComponent();
+            //GetComponent("Win32_TemperatureProbe", "CurrentReading");
         }
 
         private void Server_PacketReceived(object sender, PacketReceivedEventArgs e)
