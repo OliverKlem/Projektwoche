@@ -1,0 +1,9 @@
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\bin\Debug\Serverueberwachung_Client.exe.config
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\bin\Debug\Serverueberwachung_Client.exe
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\bin\Debug\Serverueberwachung_Client.pdb
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.Properties.Resources.resources
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.Serverueberwachung_Client.resources
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.csproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.exe
+c:\users\oliver\documents\visual studio 2015\Projects\Serverueberwachung_Server\Serverueberwachung_Client\obj\Debug\Serverueberwachung_Client.pdb
